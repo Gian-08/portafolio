@@ -3,7 +3,7 @@ import React from 'react'
 export const ContactPage = () => {
   return (
     
-    <div className="container-sm mt-4 d-flex justify-content-center">
+    <div className="container-sm mt-4 vh-100 d-flex justify-content-center">
 
         <div className="" style={{width:"40rem"}}>
 
